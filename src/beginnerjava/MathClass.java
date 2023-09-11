@@ -9,7 +9,7 @@ public class MathClass {
         int mim = Math.min(x,y);
         System.out.println("Minimum = "+ mim);
 
-
+        System.out.println("princt");
 
     }
 }
