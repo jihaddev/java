@@ -15,6 +15,7 @@ public class Josephus {
         Iterator<Integer> it = list.iterator();
         while (list.size() > 1) {
             int count = 1; // গননা কোন সংখ্যা থেকে শুরু হবে
+
             while (it.hasNext() && count < k) {
                 it.next();
                 count++;
