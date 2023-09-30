@@ -18,5 +18,4 @@ System.out.println("prime number");
 }else {
     System.out.println("Not prime");
 }
-}
-}
+}}}
